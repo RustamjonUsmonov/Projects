@@ -1,10 +1,10 @@
 <?php
 $config=array(
-    'title'=>'PHP Blog',
+    'title'=>'PHP Blog',//fill your data 
     'db'=>array(
-    'servername' => "mysqldb.cwl9ugxscq2o.us-east-1.rds.amazonaws.com",
-    'username' => "admin",
-    'password' => "254703rustam",
-    'dbname'=>"mysqldb"
+    'servername' => "",
+    'username' => "",
+    'password' => "",
+    'dbname'=>""
     )
 );
