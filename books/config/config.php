@@ -4,7 +4,7 @@ $config=array(
     'db'=>array(
         'servername' => "localhost",
         'username' => "root",
-        'password' => "254703rustam",
-        'dbname'=>"book_searh_db"
+        'password' => "",//your password
+        'dbname'=>""// database name
     )
 );
